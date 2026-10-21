@@ -135,6 +135,7 @@ oficial d'AR.js (`artoolkit-barcode-markers-collection`).
 
 ## Llicència
 
-© 2026 Angel Ortiz. El codi (visor, plantilles, scripts) i el contingut propi es publiquen amb
+© 2026 Angel Ortiz. Desenvolupat amb l'ajuda d'IA (Claude, d'Anthropic), sota la direcció i
+revisió de l'autor. El codi (visor, plantilles, scripts) i el contingut propi es publiquen amb
 llicència MIT (vegeu `LICENSE`). El model 3D del cervell (CC BY 4.0), les fonts i la resta de
 recursos de tercers conserven la seva llicència i la seva atribució, tal com es detalla a `CREDITOS.md`.
