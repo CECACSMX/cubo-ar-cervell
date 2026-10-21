@@ -70,7 +70,7 @@ Amb la webcam del portàtil és millor la versió de **8 cm**.
 
 La càmera del mòbil exigeix **HTTPS**: cal publicar la carpeta (GitHub Pages: Settings → Pages →
 Deploy from branch → `main`, arrel). El QR imprès apunta a
-`https://angelortiz90.github.io/cubo-ar-cervell/`; **si el repositori acaba amb un altre nom,
+`https://cecacsmx.github.io/cubo-ar-cervell/`; **si el repositori acaba amb un altre nom,
 regenereu el QR** amb `python fer-qr.py <URL bona>` i torneu a generar els PDF.
 
 ### Regenerar els PDF
